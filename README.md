@@ -1,5 +1,4 @@
-# SpendClusters 💰📍
-### *Where Math Meets Money: A Behavioral Expense Tracker*
+# SpendClusters
 
 **SpendClusters** is a specialized MERN-stack application designed to uncover "spending personas" hidden in financial data using **K-Means Clustering**.
 
